@@ -9,6 +9,7 @@ package com.kitchen.recipes;
  */
 public class Chapati {
 	//1st making comment from sts Chapati.java  
+	//2nd making comment from git Chapati.java 
 	private Long width;
 
 	public Long getWidth() {
